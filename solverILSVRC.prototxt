@@ -1,0 +1,27 @@
+train_net: "trainILSVRC.prototxt"
+test_net: "testILSVRC.prototxt"
+test_iter: 9917
+test_interval: 10000
+base_lr: 0.001
+display: 10
+max_iter: 440000
+lr_policy: "multistep"
+gamma: 0.1
+momentum: 0.9
+weight_decay: 0.0005
+snapshot: 30000
+snapshot_prefix: "VGG_ILSVRC2016_SSD_300x300"
+solver_mode: GPU
+device_id: 0
+debug_info: false
+snapshot_after_train: true
+test_initialization: false
+average_loss: 10
+stepvalue: 320000
+stepvalue: 400000
+stepvalue: 440000
+iter_size: 1
+type: "SGD"
+eval_type: "detection"
+ap_version: "MaxIntegral"
+

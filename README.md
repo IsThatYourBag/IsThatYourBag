@@ -10,4 +10,5 @@ Python CV approach to determinine if luggage, backpacks, purses have been left u
 
 # See Liu et al. and Intel implementations and code links
 [Liu et al.](https://github.com/weiliu89/caffe/tree/ssd)
+
 [Intel](https://software.intel.com/en-us/articles/unattended-baggage-detection-using-deep-neural-networks-in-intel-architecture)

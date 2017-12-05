@@ -1605,7 +1605,7 @@ layer {
       top_k: 400
     }
     save_output_param {
-      label_map_file: "data/coco/labelmap_coco.prototxt"
+      label_map_file: "data/coco/labelmap_coco2.prototxt"
     }
     code_type: CENTER_SIZE
     keep_top_k: 200

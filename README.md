@@ -5,7 +5,7 @@ Python CV approach to determinine if luggage, backpacks, purses have been left u
 * IsThatYourBag-caffe.ipynb
 * IsThatYourBag-caffe-numpyway.ipynb
 
-# Weights for our task-optimized model can be found [here](https://drive.google.com/open?id=1iSyQLABinBmAJbOoBGWb30VyydlwwDS-)
+# Weights for our task-optimized model can be found [here](https://drive.google.com/drive/folders/1iSyQLABinBmAJbOoBGWb30VyydlwwDS-?usp=sharing)
 
 
 # See Liu et al. and Intel implementations and code links
